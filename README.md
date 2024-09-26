@@ -2,7 +2,7 @@
 
 実験で使用したROSシステムの使用方法
 1) 端末(ターミナル)を開いて以下の2行を実行する
-   cd rosi_ws/src/robot_pkg
+   cd ros1_ws/src/robot_pkg
    bash start_ee_simX.sh A
 
    ※末尾のAは地図の種類を表し、A-Cの3種類がある
@@ -10,7 +10,7 @@
 2) Gazebo、Rvizなどの起動を待つ
 
 3) 別ウインドウで端末(ターミナル)を開いて以下の2行を実行する
-   cd rosi_ws/src/robot_pkg
+   cd ros1_ws/src/robot_pkg
    bash start_ee_robotV.sh True
    ※末尾のTrueはミニマップの表示有無。True：表示する、False：表示しない
 
