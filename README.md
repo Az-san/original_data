@@ -19,5 +19,5 @@
 5) Press enter to startでエンターを押して開始
 
 実験用のROSシステムで中心になる2つのファイル
-/home/user/rosi_ws/src/robot_pkg/script/node/MS_main.py
-/home/user/rosi_ws/src/robot_pkg/script/node/MS_maze_search_node.py
+/home/user/ros1_ws/src/robot_pkg/script/node/MS_main.py
+/home/user/ros1_ws/src/robot_pkg/script/node/MS_maze_search_node.py
